@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 4e0b4057a0785dc4093516455c05f722
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3121424773704593032
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_0"
+  - first:
+      213: 7813564070255525019
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_1"
+  - first:
+      213: 7776669344065724177
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_2"
+  - first:
+      213: -7985531106017514513
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_3"
+  - first:
+      213: 6321002529495933434
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_4"
+  - first:
+      213: 6172383051805673564
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_5"
+  - first:
+      213: -9214123486419556763
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_6"
+  - first:
+      213: -8583276244269909723
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_7"
+  - first:
+      213: 6419028582893555225
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_8"
+  - first:
+      213: -1018754409083342606
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_9"
+  - first:
+      213: -2008252934060437113
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_10"
+  - first:
+      213: -4508331589285108105
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_11"
+  - first:
+      213: -1075558108618963035
+    second: "\u2014Pngtree\u20143d dark green corona virus_5342606_12"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_0"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1443
+        width: 386
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871db32d4b87ea4d0800000000000000
+      internalID: -3121424773704593032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_1"
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1745
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf555bf1b5f6c60800000000000000
+      internalID: 7813564070255525019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_2"
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1382
+        width: 413
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f15bcd0974ceb60800000000000000
+      internalID: 7776669344065724177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_3"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1542
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb6efaa4c1bd2190800000000000000
+      internalID: -7985531106017514513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_4"
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1509
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af163fa7f46b8b750800000000000000
+      internalID: 6321002529495933434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_5"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1151
+        width: 296
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58c484dea5b8a550800000000000000
+      internalID: 6172383051805673564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_6"
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 801
+        width: 557
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e063f18bd02080800000000000000
+      internalID: -9214123486419556763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_7"
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1288
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5293e336bb312e880800000000000000
+      internalID: -8583276244269909723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_8"
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 890
+        width: 325
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e03769c78f41950800000000000000
+      internalID: 6419028582893555225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_9"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 462
+        width: 376
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f079353348acd1f0800000000000000
+      internalID: -1018754409083342606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_10"
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 363
+        width: 168
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781113eb8904124e0800000000000000
+      internalID: -2008252934060437113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_11"
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 254
+        width: 386
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7762df24e403f61c0800000000000000
+      internalID: -4508331589285108105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d dark green corona virus_5342606_12"
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 370
+        width: 229
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7c9784999d211f0800000000000000
+      internalID: -1075558108618963035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
